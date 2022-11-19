@@ -1,0 +1,20 @@
+/* PLACE YOUR CODE BELOW THIS LINE */
+table, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+th {
+    color: white;
+    background-color: blue;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 3px;
+}
+
+button {
+    float: right;
+}
+/* PLACE YOUR CODE BELOW THIS LINE */
